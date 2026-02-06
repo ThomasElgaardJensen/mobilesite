@@ -1,0 +1,36 @@
+@font-face {
+  font-family: Italic;
+  src: url(../FONT/Roboto-Italic-VariableFont_wdth\,wght.woff);
+}
+@font-face {
+  font-family: Variable;
+  src: url(../FONT/Roboto-VariableFont_wdth\,wght.woff);
+}
+
+body {
+  background-color: blueviolet;
+
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+header,
+nav {
+  padding: 0.5rem;
+}
+
+p {
+  font-family: Italic;
+}
+body {
+  font-family: italic;
+}
+h1,
+h2,
+h3 {
+  font-family: Variable;
+}
+img {
+  max-width: 100%;
+}
+img {
+}
